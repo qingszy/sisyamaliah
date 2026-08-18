@@ -50,8 +50,8 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qienszy&show_icons=true&rank_icon=percentile&theme=omni&hide_border=true" alt="Sisy's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qienszy&theme=omni&layout=compact&hide_border=true" alt="Sisy's Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sisiliahxhadid&show_icons=true&rank_icon=percentile&theme=omni&hide_border=true" alt="Sisy's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sisiliahxhadid&theme=omni&layout=compact&hide_border=true" alt="Sisy's Most Used Languages" />
 </p>
 
 ---
